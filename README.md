@@ -1,7 +1,7 @@
 # Smart Escape - AI DevFest Mock Test
 
 **Name:** Ragiv Yesar Rijvi
-**Live Website:** [We will paste the Vercel link here in a minute]
+**Live Website:** [https://devfest-ragiv.vercel.app](https://devfest-ragiv.vercel.app)
 
 ## Running Instructions
 1. Clone the repository.
