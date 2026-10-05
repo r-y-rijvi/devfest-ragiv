@@ -1,16 +1,20 @@
-# React + Vite
+# Smart Escape - AI DevFest Mock Test
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Name:** Ragiv Yesar Rijvi
+**Live Website:** [We will paste the Vercel link here in a minute]
 
-Currently, two official plugins are available:
+## Running Instructions
+1. Clone the repository.
+2. Run `npm install` to download dependencies.
+3. Run `npm run dev` to start the local server.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Implemented Features
+- SVG Map rendering with interactive nodes and edges
+- Custom Dijkstra algorithm for optimal routing
+- Interactive action mode for toggling hazards
+- Dynamic route recalculation and tie-breaking
+- English and Bangla translation support
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## AI Tools & Prompts
+- Tool used: [Name the AI you used]
+- Most useful prompt: "[Paste your most useful prompt here]"
